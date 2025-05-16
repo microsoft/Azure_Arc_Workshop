@@ -1,0 +1,1 @@
+The content of this repository are for general use in the Azure Arc Workshop.  Any content is for demonstration and or lab use only and not meant for production.  Any use of scripts or content in this repo in a production environment are not supported and at the risk of the environment in which they are used.
